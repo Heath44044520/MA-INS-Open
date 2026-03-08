@@ -1,0 +1,4 @@
+TPBR outer (+) → Piezo driver OUT
+TPBR outer (-) → GND
+Center via → Op-amp input (phase sense)
+ESP32 GPIO for frequency counting + I2C to display (optional)
