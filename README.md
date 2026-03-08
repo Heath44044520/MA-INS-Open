@@ -32,7 +32,6 @@ With f₀ = 24.1 kHz and Q > 10⁵ we target tactical-grade navigation for minut
 All measurements live in **[DATA.md](DATA.md)** — add your row and commit!
 
 ## License
-Hardware & docs: CC-BY-SA 4.0  
-Code: MIT
+MIT (code) + CC-BY-SA 4.0 (hardware/docs)
 
 Built collaboratively by heath + Grok team. Fork, improve, navigate.
